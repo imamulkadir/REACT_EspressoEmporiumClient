@@ -50,6 +50,8 @@ _Sip & Savor - Relaxation in every sip!_
 
 ---
 
+[Backend Repository](https://github.com/imamulkadir/REACT_EspressoEmporiumServer)
+
 ## ✨ Features
 
 ### 🔐 Authentication System
